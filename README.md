@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="./documentation/assets/ignite-logo.svg" alt="logo-ignite">
+  <img alt="Logo" src="./documentation/assets/logo.svg" alt="logo-ignite">
 </h1>
 
 <h1 align="center">
